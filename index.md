@@ -14,7 +14,7 @@ HELLO there, I am Ron and thanks for stopping by. :smile: :smile: :smile:
 - [Favorite_Code](#my-favorite-code)
 
 - [Things_I_like](#things-i-like)
-- 
+  
 - [Showcase](#markdown-showcase)
 
 ## Education
@@ -50,7 +50,7 @@ git push
 *Italic*
 ~~abnormal~~
 **see saw seen _cool_**
-***Fantastic**
+***Fantastic***
 > quoting things
 <br/>
 
