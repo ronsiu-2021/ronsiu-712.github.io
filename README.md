@@ -6,6 +6,7 @@ HELLO there, I am Ron and thanks for stopping by. :smile::smile::smile:
 <br/>
 [2 Corinthians 12:9](https://www.biblegateway.com/passage/?search=2%20Corinthians%2012%3A9&version=NIV)
 <br/>
+
 [Edcation](#Education)
 [Favorite Code](#Favorite-Code)
 [Things I like](#Things-I-like)
