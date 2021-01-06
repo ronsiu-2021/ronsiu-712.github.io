@@ -9,7 +9,7 @@ HELLO there, I am Ron and thanks for stopping by. :smile: :smile: :smile:
 
 <br/>
 
-- [Edcation](#education)
+- [Education](#education)
 
 - [Favorite_Code](#my-favorite-code)
 
