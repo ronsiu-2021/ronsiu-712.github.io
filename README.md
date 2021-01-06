@@ -11,9 +11,8 @@ HELLO there, I am Ron and thanks for stopping by. :smile::smile::smile:
 
 ## Education
 I am working on my bachelor degree in **Computer Science** :computer: 
-![CS picture](./CS.jpg =250x250)
-<img src="./CS.jpg" width="250px" height="250px">
-at University of California, San Diego ([UCSD](https://ucsd.edu/)). ![UCSD picture](./UCSD.png =250x250)
+<img src="./CS.jpg" width="50px" height="50px">
+at University of California, San Diego ([UCSD](https://ucsd.edu/)). ![UCSD picture](./UCSD.png =150x150)
 I really enjoy to beach nearby UCSD. ![LaJolla picture](./LaJolla.jpg =250x250)
 
 ### Most Favorite Code
