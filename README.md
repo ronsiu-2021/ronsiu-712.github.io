@@ -1,5 +1,5 @@
-# RonSiu.github.io
-HELLO there, I am Ron and thanks for stopping by. :smile::smile::smile:
+# Ron Siu
+HELLO there, I am Ron and thanks for stopping by. :smile: :smile: :smile:
 
 *Favorite verse*
 >“My grace is sufficient for you, for my power is made perfect in weakness.” 
