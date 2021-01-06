@@ -9,9 +9,13 @@ HELLO there, I am Ron and thanks for stopping by. :smile: :smile: :smile:
 
 <br/>
 
-[Edcation  ](#Education)
-[Favorite Code  ](#My-Favorite-Code)
-[Things I like](#Things-I-like)
+- [Edcation](#education)
+
+- [Favorite_Code](#my-favorite-code)
+
+- [Things_I_like](#things-i-like)
+- 
+- [Showcase](#markdown-showcase)
 
 ## Education
 I am working on my bachelor degree in **Computer Science** :computer: 
@@ -32,8 +36,35 @@ git push
 - Learning different programming languages beside my study
 - Traveling  :airplane:
 - **FOOD** :rice: :curry: :bento: :yum: ~~Eat a lot~~
-  - Sushi :sushi:
-  - [Egg Fried Rice](https://www.youtube.com/watch?v=FrUfwpaNNIM) 
+  1. Sushi :sushi:
+  2. [Egg Fried Rice](https://www.youtube.com/watch?v=FrUfwpaNNIM) 
 
 [Hello_World](./HelloWorld.md)
 [campus](./images/campus-timeline.jpg)
+
+##### MarkDown Showcase
+# Biggest
+## secnod
+##### smallest
+**bold**
+*Italic*
+~~abnormal~~
+**see saw seen _cool_**
+***Fantastic**
+> quoting things
+<br/>
+
+```
+print("Hello World!!!")
+```
+  0. Getting Start 
+100. Finishing list item
+     - First nested list item
+       - Second nested list item
+       - COOL!!!
+
+- [x] Familiarizing with Git
+- [x] Using Markdown
+- [x] Push my commits to GitHub
+
+Let's go to [UCSD](https://ucsd.edu/). 
