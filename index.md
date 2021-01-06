@@ -32,40 +32,56 @@ git commit -m"new commit"
 git push
 ```
 
-##### Things I like
+##### Things I like 
 - Learning different programming languages beside my study
 - Traveling  :airplane:
 - **FOOD** :rice: :curry: :bento: :yum: ~~Eat a lot~~
   1. Sushi :sushi:
   2. [Egg Fried Rice](https://www.youtube.com/watch?v=FrUfwpaNNIM) 
 
-[Hello_World](./HelloWorld.md)
-[campus](./images/campus-timeline.jpg)
+-[Hello_World](./HelloWorld.md)
+  -[campus](./images/campus-timeline.jpg)
 
 # MarkDown Showcase
+<hr/>
 
-# Biggest
+# Biggest heading
 ## secnod
 ##### smallest
+
 **bold**
 *Italic*
 ~~abnormal~~
 **see saw seen _cool_**
-***Fantastic***
+***It's Fantastic***
 > quoting things
 <br/>
 
+Saying hello world in Python by `print`
 ```
 print("Hello World!!!")
 ```
-  0. Getting Start 
-100. Finishing list item
-     - First nested list item
-       - Second nested list item
-       - COOL!!!
+[Python Tutorial](https://www.w3schools.com/python/default.asp)
+[More Hello World](./HelloWorld.md)
+[Top](#ron-siu)
+
+Courses I like most in UCSD
+* CSE 100
+* CSE 110
+
+1. Starter
+2. Main Dish
+3. Dessert
+4. Drinks
+   
+1.   Finishing list item
+  - First nested list item
+    - Second nested list item
+      - COOL!!!
 
 - [x] Familiarizing with Git
 - [x] Using Markdown
 - [x] Push my commits to GitHub
 
 Let's go to [UCSD](https://ucsd.edu/). 
+[Goto the Top](#ron-siu)
