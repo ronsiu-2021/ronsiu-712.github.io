@@ -3,11 +3,12 @@ HELLO there, I am Ron and thanks for stopping by. :smile::smile::smile:
 
 *Favorite verse*
 >“My grace is sufficient for you, for my power is made perfect in weakness.” 
-
+<br/>
 [2 Corinthians 12:9](https://www.biblegateway.com/passage/?search=2%20Corinthians%2012%3A9&version=NIV)
-[Edcation anchor](#Education)
-[Favorite Code anchor](#Favorite-Code)
-[Things I like anchor](#Things-I-like)
+<br/>
+[Edcation](#Education)
+[Favorite Code](#Favorite-Code)
+[Things I like](#Things-I-like)
 
 ## Education
 I am working on my bachelor degree in **Computer Science** :computer: 
