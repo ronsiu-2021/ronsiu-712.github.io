@@ -9,8 +9,8 @@ HELLO there, I am Ron and thanks for stopping by. :smile::smile::smile:
 
 <br/>
 
-[Edcation](#Education)
-[Favorite Code](#My-Favorite-Code)
+[Edcation  ](#Education)
+[Favorite Code  ](#My-Favorite-Code)
 [Things I like](#Things-I-like)
 
 ## Education
@@ -28,7 +28,7 @@ git commit -m"new commit"
 git push
 ```
 
-[My Favorite Language](secondBranch/README.md)
+[My Favorite Language](secondBranch/../README.md)
 
 ##### Things I like
 - Learning different programming languages beside my study
