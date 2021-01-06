@@ -46,14 +46,19 @@ git push
 <hr/>
 
 # Biggest heading
-## secnod
+## second
 ##### smallest
 
 **bold**
+
 *Italic*
+
 ~~abnormal~~
+
 **see saw seen _cool_**
+
 ***It's Fantastic***
+
 > quoting things
 <br/>
 
@@ -87,4 +92,5 @@ Courses I like most in UCSD
 - [x] Push my commits to GitHub
 
 Let's go to [UCSD](https://ucsd.edu/). 
+
 [Goto the Top](#ron-siu)
