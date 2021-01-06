@@ -62,22 +62,25 @@ Saying hello world in Python by `print`
 print("Hello World!!!")
 ```
 [Python Tutorial](https://www.w3schools.com/python/default.asp)
+
 [More Hello World](./HelloWorld.md)
+
 [Top](#ron-siu)
 
 Courses I like most in UCSD
-* CSE 100
-* CSE 110
+- CSE 100
+- CSE 110
+<br/>
 
-1. Starter
-2. Main Dish
-3. Dessert
-4. Drinks
-   
-1.   Finishing list item
-  - First nested list item
-    - Second nested list item
-      - COOL!!!
+
+1. Take Good notes
+2. Get some sleep
+3. Eat something great
+4. Drink more water
+5. Finishing list item
+     - First nested list item
+       - Second nested list item
+         - COOL!!!
 
 - [x] Familiarizing with Git
 - [x] Using Markdown
