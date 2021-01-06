@@ -13,6 +13,7 @@ HELLO there, I am Ron and thanks for stopping by. :smile::smile::smile:
 I am working on my bachelor degree in **Computer Science** :computer: 
 at University of California, San Diego ([UCSD](https://ucsd.edu/)). 
 I really enjoy the beach nearby UCSD. 
+<br/>
 <img src="./UCSD.png" width="250px" height="150px">
 <img src="./LaJolla.jpg" width="150px" height="150px">
 
